@@ -21,7 +21,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
     "@dialectlabs/react": "^0.5.4",
-    "@dialectlabs/react-ui": "^1.0.0-beta.14",
+    "@dialectlabs/react-ui": "^1.2.0",
     "@jet-lab/e2e-react-adapter": "^0.1.1",
     "@jet-lab/jet-antd": "^0.4.28",
     "@jet-lab/margin": "^0.1.66",
@@ -34,7 +34,7 @@
     "@solana/wallet-adapter-base": "^0.9.7",
     "@solana/wallet-adapter-react": "^0.15.6",
     "@solana/wallet-adapter-wallets": "^0.16.8",
-    "@solana/web3.js": "^1.41.4",
+    "@solana/web3.js": "^1.91.3",
     "@types/bn.js": "^5.1.0",
     "antd": "^4.17.2",
     "bs58": "^4.0.1",
