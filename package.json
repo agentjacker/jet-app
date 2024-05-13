@@ -21,7 +21,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
     "@dialectlabs/react": "^0.5.4",
-    "@dialectlabs/react-ui": "^1.0.0-beta.14",
+    "@dialectlabs/react-ui": "^1.2.0",
     "@jet-lab/e2e-react-adapter": "^0.1.1",
     "@jet-lab/jet-antd": "^0.4.28",
     "@jet-lab/margin": "^0.1.66",
